@@ -19,7 +19,7 @@ Development Assistant based in Kragujevac, Serbia — working with MySQL, Linux 
 ### 💼 What I'm doing right now
 
 - Working as a **Development Assistant at Cortech DOO**, writing and debugging MySQL queries and supporting Linux server administration
-- Building toward devops and data-focused roles
+- Building toward DevOps and data-focused roles
 - Working toward the skills needed for a DevOps role
 
 
