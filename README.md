@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matija 👋</h1>
 
 <p align="center">
-Development Assistant based in Kragujevac, Serbia — working with MySQL, Linux systems.<br>
+Development Assistant based in Kragujevac, Serbia — working with MySQL and Linux systems.<br>
 </p>
 
 <p align="center">
