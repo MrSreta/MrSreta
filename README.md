@@ -27,6 +27,7 @@ Development Assistant based in Kragujevac, Serbia — working with MySQL and Lin
  
 - **Vehicle Trip Log & Mileage Analyzer** — Python CLI tool that parses pipe-delimited GPS trip logs and calculates driving-distance breakdowns by US state, using offline geometry-based state detection for speed
 - **Disk Usage Monitor** — script that checks all mounted filesystems, logs warning/critical alerts based on configurable usage thresholds, and can be scheduled with cron to run automatically
+- **Web Projects** *in progress* — looking into some of my old projects done in react mostly, going to rework them and upload them here
 
 
 ### 📫 Reach me
